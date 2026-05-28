@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Jupyter
+*.nbconvert.ipynb
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large data/model files
+data/
+models/
+*.wav
+*.mp3
+*.ogg
+*.flac
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.pkl
